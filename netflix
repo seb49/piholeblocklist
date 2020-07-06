@@ -1,3 +1,8 @@
-(\.|^)netflix\.com$
-(\.|^)nflxso\.net$
-(\.|^)nflximg\.com$
+www.netflix.com
+api-global.netflix.com
+codex.nflxext.com
+cdn-0.nflximg.com
+ichnaea.netflix.com
+customerevents.netflix.com
+nrdp.prod.ftl.netflix.com
+nrdp.nccp.netflix.com
